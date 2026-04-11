@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @babarqureshi
 - 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... ASP.NET
-- 💞️ I’m looking to collaborate on ... Backend Projects (PHP,ASP.NET) (Front-End)
+- 🌱 I’m currently learning ... React
+- 💞️ I’m looking to collaborate on ... Backend Projects (PHP,Laravel) (React,Front-End)
 - 📫 How to reach me ... babaraptech01@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
