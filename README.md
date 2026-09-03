@@ -1,31 +1,46 @@
-👋 Hi, I'm Babar Qureshi
+# 👋 Hi, I'm Babar Qureshi
 
-🚀 Full Stack Developer | Laravel | PHP | React | Flutter
+🚀 Full Stack Developer | PHP | Laravel | React | TypeScript | Svelte
 
-👀 I’m interested in building scalable backend systems and intelligent scheduling applications
+I’m a Full Stack Developer currently working at Minhasoft, where I build and maintain real-world enterprise applications and work across both frontend and backend development.
 
-🌱 I’m currently learning React & Advanced Laravel Architecture
+💼 Currently working on an Aviation Management System involving:
 
-💼 Currently working on Aviation Management System with smart staff assignment & shift optimization
+* Smart staff assignment and shift optimization
+* Workflow automation
+* REST APIs and integrations
+* Reporting and data processing
+* Queue jobs and scheduled tasks
 
-💞️ I’m looking to collaborate on:
+🛠️ Tech Stack
 
-Laravel Backend Projects
-REST API Development
-React Front-End Projects
-Full Stack Applications
+**Backend:** PHP, Laravel, ASP.NET, REST APIs
+**Frontend:** React, JavaScript, TypeScript, Svelte, SvelteKit, Bootstrap, Tailwind CSS
+**Testing & Quality:** Playwright, Chromatic
+**Monitoring:** Sentry
+**Mobile:** Flutter, Dart, Firebase
+**Database:** MySQL, SQL Server, MongoDB
+**Tools:** Git, GitHub, Postman, Docker, VS Code
 
-🛠️ Tech Stack:
+🌱 Currently learning
 
-Backend: PHP, Laravel, ASP.NET
-Frontend: React, JavaScript, Bootstrap
-Mobile: Flutter
-Database: MySQL, MongoDB
+I’m currently expanding my frontend skills with Svelte and SvelteKit, building small personal projects to strengthen my understanding of components, state management, event handling, reusable UI patterns, and TypeScript.
 
-📫 How to reach me:
+I’m also familiar with modern frontend development and quality tools such as **Playwright** for end-to-end testing, **Chromatic** for visual testing and UI component review, and **Sentry** for application error monitoring and debugging.
 
-Email: babaraptech01@gmail.com
-GitHub: github.com/babarqureshi16
+🤝 I enjoy
 
-⚡ Fun Fact:
-I love solving complex scheduling and optimization problems in real-world systems.
+* Solving real-world problems
+* Understanding business requirements and finding practical solutions
+* Learning new technologies
+* Working with experienced developers
+* Helping others understand and solve problems
+
+💡 A little about me
+
+I enjoy working on difficult problems. When I get stuck, I like to investigate the problem, understand what's happening, and keep working until I find a practical solution.
+
+📫 Contact
+
+**Email:** [babaraptech01@gmail.com](mailto:babaraptech01@gmail.com)
+**GitHub:** github.com/babarqureshi16
